@@ -6,5 +6,12 @@
 
 ## node filename
 
+## Screenshots
+### Home Page
+---
 ![plot](./img/home.png)
+---
+### Product
+---
 ![plot](./img/product.png)
+---
